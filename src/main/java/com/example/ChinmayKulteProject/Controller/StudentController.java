@@ -1,4 +1,4 @@
-package com.example.FaizanSayaniProject.Controller;
+package com.example.ChinmayKulteProject.Controller;
 
 import com.example.FaizanSayaniProject.Entity.Student;
 import com.example.FaizanSayaniProject.Service.StudentService;

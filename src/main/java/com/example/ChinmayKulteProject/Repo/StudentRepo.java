@@ -1,4 +1,4 @@
-package com.example.FaizanSayaniProject.Repo;
+package com.example.ChinmayKulteProject.Repo;
 
 import com.example.FaizanSayaniProject.Entity.Student;
 import org.springframework.data.mongodb.repository.MongoRepository;
