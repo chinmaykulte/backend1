@@ -1,9 +1,9 @@
-package com.example.FaizanSayaniProject.Service;
+package com.example.ChinmayKulteProject.Service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import com.example.FaizanSayaniProject.Entity.Student;
-import com.example.FaizanSayaniProject.Repo.StudentRepo;
+import com.example.ChinmayKulteProject.Entity.Student;
+import com.example.ChinmayKulteProject.Repo.StudentRepo;
 
 @Service
 public class StudentService {
